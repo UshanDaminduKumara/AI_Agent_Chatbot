@@ -18,6 +18,9 @@ A Modular AI chatbot built with **FastAPI** (Backend), **Streamlit** (Frontend),
 - **Search Tool:** Tavly AI
 
 ---
+##  🧪 Chatbot Demo — Without Web Search vs With Web Search
+
+![alt text](assets/image.png)
 
 ## 📁 Project Structure
 ```text
@@ -35,6 +38,4 @@ A Modular AI chatbot built with **FastAPI** (Backend), **Streamlit** (Frontend),
 ├── requirements.txt       # Dependencies
 └── .env                   # API Keys (GitIgnored)
 
-## 🧪 Chatbot Demo — Without Web Search vs With Web Search
 
-![alt text](assets/image.png)
